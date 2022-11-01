@@ -1,1 +1,5 @@
-theme: jekyll-theme-modernist
+theme: 
+mean <- function(x){
+mean <- mean(x)
+round(mean)
+}
